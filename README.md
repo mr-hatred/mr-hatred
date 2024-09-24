@@ -3,7 +3,7 @@
 I'm an amateur developer
 
 ## 🛠️ Skills and Tools:
-- **Languages**: Python, Dart, C++, 
+- **Languages**: Python, Dart, C++
 - **Frameworks & Libraries**: Flutter, disnake(python)
 - **Tools**: Git, Linux, FlutterFlow
 
